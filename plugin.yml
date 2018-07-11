@@ -1,7 +1,7 @@
-main: me.creepinson.plugin.Template
-name: Template-Plugin
-author: Creepinson
-version: 1.0.0
+main: net.apherfox.some.plugin
+name: Some-Plugin
+author: ApherFox
+version: 0.1
 commands:
-  example:
-    description: An example command...
+  yes:
+    description: Yes, tis a command
