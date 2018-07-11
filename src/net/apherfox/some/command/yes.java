@@ -11,7 +11,7 @@ import org.bukkit.entity.Player;
 import net.md_5.bungee.api.ChatColor;
 
 // All command classes need to implement the CommandExecutor interface to be a proper command!
-public class ExampleCommand implements CommandExecutor {
+public class yes implements CommandExecutor {
 
 	/* Called when the command is ran
 	args variable is the commands arguments in an array of strings.
