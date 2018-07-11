@@ -1,4 +1,4 @@
-package me.creepinson.plugin;
+package net.apherfox.some;
 
 import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.PluginManager;
@@ -49,7 +49,7 @@ public class Template extends JavaPlugin {
 		 * command, it won't work! Also if you change the command name, make sure to
 		 * also change in the plugin.yml file.
 		 */
-		this.getCommand("example").setExecutor(new ExampleCommand());
+		this.getCommand("yes").setExecutor(new ExampleCommand());
 
 		/*
 		 * Make sure you register your listeners if you have any! If you have a class

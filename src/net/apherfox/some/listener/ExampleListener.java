@@ -1,4 +1,4 @@
-package me.creepinson.plugin.listener;
+package net.apherfox.some.listener;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

@@ -1,6 +1,6 @@
-package me.creepinson.plugin.command;
+package net.apherfox.some.command;
 
-import static me.creepinson.plugin.Template.CHAT_PREFIX;
+import static net.apherfox.some.Template.CHAT_PREFIX;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
