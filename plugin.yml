@@ -1,8 +1,7 @@
 name: SomePlugin
 main: net.apherfox.someplugin.SomePlugin
 version: 1.2
-authors: [ApherFox /*main author of the plugin*/, 
-Creepinson /*author of template https://github.com/creepinson/SpigotPluginTemplate*/]
+authors: [ApherFox]
 commands:
   some:
     description: Some command 'shrugs'
