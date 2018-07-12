@@ -1,7 +1,13 @@
-main: net.apherfox.some.plugin
-name: Some-Plugin
-author: ApherFox
-version: 0.1
+name: SomePlugin
+main: net.apherfox.someplugin.SomePlugin
+version: 1.2
 commands:
-  yes:
-    description: Yes, tis a command
+  some:
+    description: Some command 'shrugs'
+  leash:
+    description: View a leash request
+    usage: /leash (id)
+  unleash:
+    description: Unleash yourself of a submissive
+    
+permissions:
